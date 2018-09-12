@@ -1,4 +1,4 @@
-# whenNotFontawesome_sometime
+# whenNotFontAwesome_sometimes
 Android fontawesome app to convert unicode to the icon interactively.
 It remains a mystrey to me why on the android platform some of the font awesome codes e.g f571 fonts simply does  not 
 render the icon ; where as others e.g f06e (eye)  works fine.
